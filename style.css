@@ -208,7 +208,7 @@ a {
   transform: translate(0, 50%) scaleY(0);
   transition: transform 1s ease;
   mix-blend-mode: difference;
-
+  
   clip-path: polygon(
     80% 40%,
     0% 40%,
